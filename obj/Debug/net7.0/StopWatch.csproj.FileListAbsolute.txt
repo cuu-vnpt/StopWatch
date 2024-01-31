@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/StopWatch/bin/Debug/net7.0/StopWatch
+/Users/macos/Desktop/Operator/StopWatch/bin/Debug/net7.0/StopWatch.deps.json
+/Users/macos/Desktop/Operator/StopWatch/bin/Debug/net7.0/StopWatch.runtimeconfig.json
+/Users/macos/Desktop/Operator/StopWatch/bin/Debug/net7.0/StopWatch.dll
+/Users/macos/Desktop/Operator/StopWatch/bin/Debug/net7.0/StopWatch.pdb
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.dll
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/refint/StopWatch.dll
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.pdb
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/StopWatch.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/StopWatch/obj/Debug/net7.0/ref/StopWatch.dll
